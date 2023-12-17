@@ -1,4 +1,9 @@
 # UAS_SPK
+
+Nama: Arif Cahya Dito
+NIM: 201011401744
+Kelas: 07TPLP013
+
 UAS Sistem Penunjang Keputusan
 
 1. Install Environment pada terminal (Terhubung Internet).
