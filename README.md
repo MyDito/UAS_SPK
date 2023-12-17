@@ -1,11 +1,10 @@
 # UAS_SPK
 
-Nama: Arif Cahya Dito
-NIM: 201011401744
-Kelas: 07TPLP013
+# Nama: Arif Cahya Dito
+# NIM: 201011401744
+# Kelas: 07TPLP013
 
-UAS Sistem Penunjang Keputusan
-
+UAS Sistem Penunjang Keputusan:
 1. Install Environment pada terminal (Terhubung Internet).
 2. Install requirements | pip install -r requirements.txt
 3. Install apa yang dibutuhkan dengan contoh (pip install SQLAlchemy).
