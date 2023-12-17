@@ -10,7 +10,7 @@ UAS Sistem Penunjang Keputusan:
 3. Install apa yang dibutuhkan dengan contoh (pip install SQLAlchemy).
 4. Buat table di database masing masing sesuai dengan datanya masing masing.
 5. lalu buat implementasikan model dengan data yang ada.
-6. Jika sudah dibuat makan jalankan kode tersebut pada terminal dengan menulis | python main.py
+6. Jika sudah dibuat maka jalankan kode tersebut pada terminal dengan menulis | python main.py
 
 Get recommendation | http://127.0.0.1:5005/recommendation
 
