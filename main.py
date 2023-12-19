@@ -36,14 +36,15 @@ class Recommendation(Resource):
                 "smartphone_id": rec[0],
                 "nama": smartphone.smartphone_data_dict[rec[0]],
                 "skor": rec[1],
+                "Rank": rank + 1,
             }
-            for rec in recommendations.items()
+            for rank, rec in enumerate(recommendations.items()
         ]
 
         return {"Rekomendasi Smartphone Entry level": results}, HTTPStatus.OK.value
 
 
-api.add_resource(Recommendation, "/recommendation")
+api.add_resource(Recommendation, "/recommendations")
 
 
 # def create_table():
