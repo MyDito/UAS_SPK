@@ -14,5 +14,6 @@ UAS Sistem Penunjang Keputusan:
 
 Jalankan Perintah ini pada postman dengan Url anda masing masing menggunakan Postman | http://127.0.0.1:5005/recommendation
 
-![image](https://github.com/MyDito/UAS_SPK/assets/112084539/f1db2138-0ab9-4cb8-bbf2-d6e3bd31f087)
+![image](https://github.com/MyDito/UAS_SPK/assets/112084539/c9bb5344-b8bd-41d8-aaab-c9b9e8e20726)
+
 
